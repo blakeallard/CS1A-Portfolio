@@ -1,1 +1,1 @@
-My first semester of Computer Science!
+My first semester of Computer Science.
